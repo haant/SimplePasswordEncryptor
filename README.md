@@ -8,7 +8,7 @@ A very simple Password Encryptor made using Python. Takes the application you ar
 # Installation
 To install this simple Password Encryptor, you will need to use the cryptography module. Do this by simply typing the following into the command line (Windows and pip):
 ```sh
-pip istall cryptography
+pip install cryptography
 ```
 The documentation of cryptography can be found here https://cryptography.io/en/latest/
 
